@@ -18,3 +18,14 @@ button {
   font-size: small;
   text-align: center;
 }
+
+button {
+  transition: font-size 1s ease-out 0.25s;
+}
+
+button:hover {
+  font-size: x-large;
+  cursor: pointer;
+}
+
+

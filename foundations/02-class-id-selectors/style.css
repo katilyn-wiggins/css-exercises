@@ -1,0 +1,23 @@
+* {
+  font-family: arial;
+}
+
+.odd {
+  background-color: lightpink;
+  font-size: 24px;
+}
+
+.size {
+  font-size: 36px;
+}
+
+#first {
+  font-size: 40px;
+  color: blue;
+}
+
+#green {
+  background-color: chartreuse;
+  font-weight: bold;
+  font-size: 24px;
+}
